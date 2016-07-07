@@ -1,0 +1,21 @@
+# Site settings
+title: danny's exciting foray in cod3r life 
+header-img: img/home-bg.png
+email: daniel.valmas@gmail.com
+copyright_name: dannyenfp
+description: > # this means to ignore newlines until "baseurl:"
+  buckle up
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  dannyenfp
+learn_profile: dannyenfp
+email_username: daniel.valmas@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
