@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mood Haiku, a Sinatra App"
-date:   2016-08-19 18:25:17 +0000
+date:   2016-08-19 14:25:17 -0400
 ---
 
 I'm super excited to write that I have completed the Sinatra Assessment! 
